@@ -1,0 +1,209 @@
+[
+  {
+    "feeling": "I'm feeling really low today.",
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  {
+    "feeling": "I need something thrilling and exciting.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  {
+    "feeling": "Feeling sad and heartbroken.",
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "feeling": "I’m in the mood for something romantic.",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
+    "feeling": "Bored and want to watch something wild.",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "feeling": "Feeling inspired and positive!",
+    "genres": [
+      "Drama",
+      "Biography"
+    ]
+  },
+  {
+    "feeling": "Feeling nostalgic.",
+    "genres": [
+      "Drama",
+      "Family"
+    ]
+  },
+  {
+    "feeling": "Feeling stressed out.",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  {
+    "feeling": "I want to laugh!",
+    "genres": [
+      "Comedy"
+    ]
+  },
+  {
+    "feeling": "Feeling lonely and quiet.",
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  {
+    "feeling": "I’m curious and want something mind-bending.",
+    "genres": [
+      "Sci-Fi",
+      "Mystery"
+    ]
+  },
+  {
+    "feeling": "Feeling like solving puzzles.",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "feeling": "Need something to pump me up!",
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "feeling": "Feeling gloomy.",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  {
+    "feeling": "Want something beautiful and deep.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "feeling": "Feeling like I want to escape reality.",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ]
+  },
+  {
+    "feeling": "Feeling creative.",
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ]
+  },
+  {
+    "feeling": "Feeling like I want to cry.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "feeling": "I'm in the mood for something magical.",
+    "genres": [
+      "Fantasy",
+      "Family"
+    ]
+  },
+  {
+    "feeling": "Feeling excited and energetic!",
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  {
+    "feeling": "I'm having a lazy Sunday.",
+    "genres": [
+      "Family",
+      "Animation"
+    ]
+  },
+  {
+    "feeling": "I want something romantic but funny.",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  {
+    "feeling": "Feeling curious and philosophical.",
+    "genres": [
+      "Sci-Fi",
+      "Drama"
+    ]
+  },
+  {
+    "feeling": "Feeling hopeful and uplifted.",
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  {
+    "feeling": "Need something relaxing and light.",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  {
+    "feeling": "Want to laugh out loud!",
+    "genres": [
+      "Comedy"
+    ]
+  },
+  {
+    "feeling": "Feeling angry.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  {
+    "feeling": "Feeling shy and awkward.",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  {
+    "feeling": "Feeling like an adventure.",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  {
+    "feeling": "Feeling lost.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
+  }
+]
